@@ -1,2 +1,4 @@
-# The-voices-theme
-The voices is calling leaderboard and computer
+# Themes:
++ The voices is calling
++ Cat in litterbox (NOT RELEASED)
++ MORE SOON
